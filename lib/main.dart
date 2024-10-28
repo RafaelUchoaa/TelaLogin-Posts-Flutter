@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'login.dart'; // Importa a tela de login
+import 'login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Posts App',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const LoginPage(), // Corrigido para LoginPage
+      home: const LoginPage(),
     );
   }
 }
