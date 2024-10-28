@@ -74,7 +74,7 @@ class _PostListScreenState extends State<PostListScreen> {
             fontSize: 24,
           ),
         ),
-        backgroundColor: const Color.fromRGBO(56, 3, 105, 1), // cor roxa
+        backgroundColor: const Color.fromRGBO(56, 3, 105, 1),
         centerTitle: true,
       ),
       body: FutureBuilder<List<Post>>(
