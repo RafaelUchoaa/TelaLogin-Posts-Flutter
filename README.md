@@ -27,6 +27,14 @@ Este é um projeto que desenvolvi em Flutter. A ideia é construir um app simple
 2. Quando o usuário seleciona um post, ele é levado para uma tela de detalhes, onde pode ver o conteúdo completo e os comentários relacionados ao post, também puxados da API.<br>
 <br>
 
-## 🎯 Objetivo<br>
+## Telas do App <br>
+- Tela de Login: Tela simples para login, onde o usuário deve inserir e-mail e senha para acessar a lista de posts. Para testes, utilize:<br>
+  E-mail: test@gmail.com<br>
+  Senha: 123456<br>
+- Tela de Lista de Posts: Exibe todos os posts de forma organizada.<br>
+- Tela de Detalhes do Post: Exibe o conteúdo completo do post e seus comentários.<br>
+<br>
+
+## 🎯 Objetivo
 
 Esse projeto é uma oportunidade de aprendizado e prática. O foco foi explorar como consumir dados de uma API e exibi-los em uma interface organizada, navegando entre telas de forma simples.
